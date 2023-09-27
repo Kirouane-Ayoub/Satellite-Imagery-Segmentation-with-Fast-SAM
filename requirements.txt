@@ -1,0 +1,5 @@
+segment-geospatial 
+segment-anything-fast 
+matplotlib
+Pillow
+gradio
