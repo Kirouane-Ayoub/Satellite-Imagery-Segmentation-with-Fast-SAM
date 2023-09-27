@@ -1,7 +1,8 @@
-# Project Title: Satellite Imagery Segmentation with FastSAM
+# Satellite Imagery Segmentation with FastSAM
 
 ## Description:
 Satellite Imagery Segmentation with FastSAM is a powerful application that leverages the **Fast Segment Anything Model (FastSAM)** to efficiently and accurately segment objects and regions of interest in satellite images. This app provides a user-friendly interface for users to upload and process satellite images, making it accessible to a wide range of users, including researchers, environmentalists, and urban planners.
+
 
 ## Model:
 **FastSAM (Fast Segment Anything Model)** is a state-of-the-art convolutional neural network (CNN)-based model designed for the Segment Anything task. It offers exceptional speed and competitive performance in image segmentation, object detection, and image editing tasks. FastSAM is the heart of this application, ensuring rapid and precise satellite image segmentation.
@@ -36,4 +37,7 @@ This project relies on the FastSAM model, and credit goes to the original author
 pip install -r requirements.txt
 python app.py
 ```
-+ You can check The Demo from here : **https://huggingface.co/spaces/ayoubkirouane/Fast-SAM-Satellite-Imagery-Segmentation**
++ You can check The Demo from here: **https://huggingface.co/spaces/ayoubkirouane/Fast-SAM-Satellite-Imagery-Segmentation**
+
+
+![Screenshot at 2023-09-27 11-05-44](https://github.com/Kirouane-Ayoub/Satellite-Imagery-Segmentation-with-Fast-SAM/assets/99510125/bd609912-3852-42e7-bfab-43587f69954f)
